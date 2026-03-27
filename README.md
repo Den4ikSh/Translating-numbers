@@ -33,7 +33,7 @@
 > 	- In case of an error, provide the user with the option to re-enter the number or return to the conversion menu.
 
 > [!IMPORTANT]
-> [x] The project is fully completed and does not require any further modifications (except for possible GUI addition)
+> - [x] The project is fully completed and does not require any further modifications (except for possible GUI addition)
 
 > [!WARNING]
 > As it turned out, the console cannot output Hebrew numbers, instead they output characters with a question mark. Nevertheless, the program is working.
